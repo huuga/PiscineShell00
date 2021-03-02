@@ -1,0 +1,5 @@
+Credentials cache: API:018DA258-51DC-4D0A-8087-D07E3B2C33A7
+        Principal: rlacresh@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  1 16:13:47 2021  Mar  2 02:13:38 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
